@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Ch15-P6-AttributedCarLibrary">
+      <HintPath>..\..\Ch15-P6-AttributedCarLibrary\Ch15-P6-AttributedCarLibrary\bin\Debug\Ch15-P6-AttributedCarLibrary.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
